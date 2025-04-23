@@ -1,1 +1,7 @@
-# lab_15_force_simulator
+# LAB 15: Force Simulator
+
+**Name:**
+
+**Period:**
+
+**Email:**
