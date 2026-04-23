@@ -27,5 +27,3 @@ Here are some ideas:
 - Bounciness decay: each bounce reduces velocity by 10%, so balls eventually settle.
   
 - Floor friction: when a ball is touching the bottom, reduce its horizontal velocity each frame.
-
-- Gravity: press up/down arrow keys to increase or decrease gravity strength; display the current value on screen.
