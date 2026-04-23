@@ -28,4 +28,4 @@ Here are some ideas:
   
 - Floor friction: when a ball is touching the bottom, reduce its horizontal velocity each frame.
 
-- Variable gravity: press up/down arrow keys to increase or decrease gravity strength; display the current value on screen.
+- Gravity: press up/down arrow keys to increase or decrease gravity strength; display the current value on screen.
